@@ -1,8 +1,8 @@
 /*
--  Author:   JD Durick
+-  Author:   vm0x0d
 -  Program:  VFAE (VMDK Artifact Extractor)
 -  Website:  http://www.vmforensics.org
--  Email:    labgeek@gmail.com
+-  Email:    vm0x0d
 -  Version   1.2 beta
 -  Description:  Console application to copy out files from an off-line VMDK file.  The application allows
 the user to conduct a quick triage of the directory structure by outputing the results to a specific output

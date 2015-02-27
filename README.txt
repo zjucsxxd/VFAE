@@ -1,7 +1,5 @@
 VMDK Forensic Artifact Extractor (VFAE)
-By:  JD Durick <labgeek@gmail.com>
-Web site:  http://www.vmforensics.org
-Sourceforge location:  http://www.sourceforge.net/vfae
+By:  vm0x0d@gmail.com
 Date:  01/10/2012
 Program version:  1.2 beta
 
